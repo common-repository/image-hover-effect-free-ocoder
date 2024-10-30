@@ -1,0 +1,30 @@
+
+/* Kobra Wrapper Icon */
+.wpb-content-layouts .wpb-layout-element-button .kobra_wappericon {
+    background-image: url(img/kobra_wappericon.png)!important;
+    background-size: 32px;
+}
+
+.vc_element-icon.kobra_wappericon{
+    background-image: url(img/kobra_wappericon.png)!important;
+    background-size: 32px;
+}
+.wpb_cq_vc_extension_wappericon.wpb_content_element > .wpb_element_wrapper {
+	background-image: url(img/kobra_wappericon.png)!important;
+    background-size: 32px;
+}
+
+/* Kobra Item Icon */
+.wpb-content-layouts .wpb-layout-element-button .kobra_itemicon {
+    background-image: url(img/kobra_itemicon.png)!important;
+    background-size: 32px;
+}
+
+.vc_element-icon.kobra_itemicon{
+    background-image: url(img/kobra_itemicon.png)!important;
+    background-size: 32px;
+}
+.wpb_cq_vc_extension_itemicon.wpb_content_element > .wpb_element_wrapper {
+	background-image: url(img/kobra_itemicon.png)!important;
+    background-size: 32px;
+}
